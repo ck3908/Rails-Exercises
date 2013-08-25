@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+
+gem "protected_attributes"
+# fixing runtime errors 8/23/2013
+#gem 'execjs', '1.4.0'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0.rc1'
 
